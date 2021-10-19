@@ -54,3 +54,24 @@
   margin-left: 5px;
 }
 
+.SearchPage__results {
+  max-width: 650px;
+  margin-top: 20px;
+  margin-left: 240px;
+  margin-bottom: 100px;
+}
+
+.SearchPage__result {
+  margin: 40px 0;
+}
+
+.SearchPage__resultLink {
+  color: #202124;
+  text-decoration: none;
+}
+
+.SearchPage__resultCount {
+  color: #70757a;
+  font-size: 14px;
+}
+
