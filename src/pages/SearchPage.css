@@ -75,3 +75,22 @@
   font-size: 14px;
 }
 
+.SearchPage__resultTitle {
+  text-decoration: none;
+}
+
+.SearchPage__resultTitle > h2 {
+  color: #1a0dab;
+}
+
+.SearchPage__resultTitle:hover {
+  text-decoration: underline;
+}
+
+.SearchPage__resultTitle > h2 {
+  font-weight: 500;
+}
+
+.SearchPage__resultSnippet {
+  margin-top: 10px;
+}
